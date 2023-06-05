@@ -1,0 +1,6 @@
+.block{
+width: fit-content;
+  border:double;
+  border-color: black;
+  border-radius: 10px;
+}
